@@ -9,5 +9,6 @@ metadata:
     title: Azure Devops
     icon: azure
 spec:
+  owner: test
   type: spa
   lifecycle: test
