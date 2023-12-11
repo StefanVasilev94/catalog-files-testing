@@ -9,7 +9,6 @@ metadata:
     title: Azure Devops
     icon: azure
 spec:
-  domain: generieke_applicatie_resources
   owner: team_it4dev_dev
   type: spa
   lifecycle: test
