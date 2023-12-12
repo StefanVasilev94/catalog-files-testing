@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rfh-core
+  annotations:
+    dev.azure.com/project-repo: Generieke Applicatie Resources/$rfh-core
+  links:
+  - url: https://dev.azure.com/royalfloraholland/Generieke%20Applicatie%20Resources/_git/rfh-core
+    title: Azure Devops
+    icon: azure
+spec:
+  type: service
+  lifecycle: production
+  domain: generieke_applicatie_resources
+  owner: team_it4dev_dev
